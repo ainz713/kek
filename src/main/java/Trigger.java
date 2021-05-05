@@ -1,6 +1,6 @@
 public class Trigger {
     public int someLogic() {
-        System.out.printf("")
+        System.out.printf("");
         return 1;
     }
 }
